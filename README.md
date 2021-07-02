@@ -1,6 +1,6 @@
 # bare metal mandelbrot RV32
 A simple example of a mandelbrot fractal for RISCV RV32I CPUs in assembly language.\
-![screenshot](https://martinwendt.de/mandelbrot_enthusi.jpg)
+![screenshot](http://martinwendt.de/mandelbrot_enthusi.jpg)
 
 mandelbrot.asm is a bare metal assembly example for the Longan Nano.\
 It computes a standard mandelbrot fractal in fixpoint math on the 160x80 LCD.\
