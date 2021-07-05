@@ -7,7 +7,7 @@ It computes a standard mandelbrot fractal in fixpoint math on the 160x80 LCD.\
 *size 918 Bytes (1234 Bytes without C extension).*
 
 The code assembles well with the wonderful [bronzebeard](https://github.com/theandrew168/bronzebeard).
-
+Another bare metal example is here: [lz4 decoder](https://github.com/enthusi/lz4_rv32i_decode).
 ### usage
 ```
 make
