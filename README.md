@@ -13,6 +13,11 @@ Another bare metal example is here: [lz4 decoder](https://github.com/enthusi/lz4
 make
 make flash
 ```
+For the joystick controllable version use
+```
+make joystick
+```
+[![Joycontrolled mandelbrot](http://img.youtube.com/vi/qFNgVQLxW9g/0.jpg)](http://youtu.be/qFNgVQLxW9g "Joystick controlled mandelbrot on LonganNano in RiscV assembly")
 
 Licensed under the 3-Clause BSD License
 Copyright 2021, Martin Wendt
